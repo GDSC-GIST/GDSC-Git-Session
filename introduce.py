@@ -4,6 +4,10 @@ def introduce():
     name = 'Sunjae Lee'
     intro = 'Hello~~~ I use terminal now~'
     print(f"안녕하세요 저는 {name}입니다. {intro}")
+    
+    name = '이주찬'
+    intro = 'GDSC GIST에서 깃세션을 하고 있습니다. 방가워요!'
+    print(f"안녕하세요 저는 {name}입니다. {intro}")
 
 # 이 아래 부분은 수정하지 마세요.
 if __name__ == "__main__":
